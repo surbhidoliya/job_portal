@@ -1,0 +1,9 @@
+com/job/portal/service/IJobService.class
+com/job/portal/model/JobType.class
+com/job/portal/service/impl/JobService.class
+com/job/portal/model/request/ListJobsRequest.class
+com/job/portal/controller/JobController.class
+com/job/portal/JobPortalApplication.class
+com/job/portal/model/Job.class
+com/job/portal/model/Location.class
+com/job/portal/model/Team.class
